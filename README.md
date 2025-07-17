@@ -80,28 +80,11 @@ The project provides a simple and intuitive interface where users can enter coef
 6. Results will display below each form.
 
 ---
-
-## Future Improvements
-
-- More robust input validation with specific error messages.
-- Enhanced UI with visual feedback and animations.
-- Interactive graphs to visualize parabolas, projectile motion, and trajectories.
-- Multi-language support.
-- Modularization of JavaScript using ES6 modules.
-- Detailed error handling.
-- Export results as PDF or CSV.
-- Add interactive simulations or animations.
-
----
-
 ## License and Credits
 
-This project was created as an educational tool to support the study of physical laws and mathematical curves.
+This project was created as an educational tool to support the study of physical laws and mathematical curves by Matteo
 
-The code is released under the MIT License (or specify your license here), free to use and modify.
+The code is released under the MIT License, free to use and modify.
 
----
 
-If you have any questions or want to contribute, feel free to open an issue or submit a pull request!
 
-(https://user-images.githubusercontent.com/94646702/214670336-7476c95c-5261-4ed9-9ee1-69f5691e911f.png)
